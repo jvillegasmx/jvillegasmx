@@ -1,5 +1,3 @@
-Hi, I’m Javier Villegas
-
 I’m a Full-Stack Developer & Project Manager passionate about building scalable applications, leading technical projects, and delivering solutions that drive business growth.
 I bring a mix of hands-on coding expertise and project management skills, bridging the gap between development teams and business goals.
 
